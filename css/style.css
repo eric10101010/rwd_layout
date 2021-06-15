@@ -112,7 +112,6 @@ img{
     margin-bottom: 24px;
 }
 .content p{
-    font-size: 16px;
     line-height: 1.5;
     margin-bottom: 24px;
 }
@@ -123,8 +122,6 @@ img{
     border: 2px solid #000;
 }
 .sidebar img {
-    max-width: 100%;
-    height: auto;
     padding-bottom: 10px;
 }
 /*----頁尾----*/
@@ -139,9 +136,7 @@ img{
 		align-items: center;
 	}
     .logo{
-        width:150px;
 		margin-bottom:20px;
-		
 	}
 	.logo a{
 		width:150px;
@@ -150,7 +145,6 @@ img{
 	}
     .menu li {
 		width: 50%;
-		margin:0 auto;	
 	}
     .content, .sidebar{
 		width: 100%; 
